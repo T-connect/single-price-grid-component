@@ -123,6 +123,7 @@ color: hsl(180, 14%, 82%);
       min-width: 320px;
       margin: 18px;
     display: inline;
+      padding: 0 20px;
     
     
   }
